@@ -212,14 +212,15 @@ I completed the **Mathematics for Machine Learning and Data Science** specializa
 
 ### Certificate
 
-<div align="center">
+ 
 
-<!-- Add your certificate image here -->
-
-`Certificate`
-
-</div>
-
+<p align="center">
+  <a href="math_for_ML_DS_Coursera/MLDS_specialization_coursera_page-0001.jpg">
+    <img src="math_for_ML_DS_Coursera/MLDS_specialization_coursera_page-0001.jpg"
+         alt="Mathematics for Machine Learning and Data Science Certificate"
+         width="700">
+  </a>
+</p>
 ---
 
 # 🧭 Learning Philosophy
