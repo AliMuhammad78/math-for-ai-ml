@@ -2,7 +2,7 @@
 
 # 🧮 Mathematics for AI and Machine Learning
   
-### Building the mathematical foundation behind Machine Learning, Deep Learning, and Modern AI.  
+### Building the mathematical foundation behind Machine Learning, Deep Learning, and Modern AI.    
     
 <br>
 
