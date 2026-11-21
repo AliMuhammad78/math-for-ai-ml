@@ -3,7 +3,7 @@
 # 🧮 Mathematics for AI and Machine Learning
   
 ### Building the mathematical foundation behind Machine Learning, Deep Learning, and Modern AI.  
-  
+    
 <br>
 
 <img src="https://img.shields.io/badge/Mathematics-for%20AI-0A0A0A?style=for-the-badge&logo=wolfram&logoColor=white" alt="Mathematics for AI"/>
